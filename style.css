@@ -1,0 +1,9 @@
+.hyp {
+    margin-bottom: 0 !important;
+    line-height: 100% !important;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+.hyp:hover{
+  color:#b7b2b2;
+}
